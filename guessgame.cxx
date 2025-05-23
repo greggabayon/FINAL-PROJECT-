@@ -46,7 +46,7 @@ int main() {
     cout << "Guess the number game!" << endl << endl;
 
     // Game notes and creators
-    cout << "Created by: Greg Abayon, Arwil Araneta, Anito Bacog, Anica Martinez, John Rei Orienda" << endl;
+    cout << "Created by: Greg Abayon, Arwil Araneta, Anito Bacog, Anica Martinez" << endl;
     cout << "\nIMPORTANT NOTES:\n";
     cout << "I. Level Order: Easy → Medium → Hard" << endl;
     cout << "II. Each level has a fixed number to guess!" << endl;
